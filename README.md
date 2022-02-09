@@ -5,7 +5,7 @@
  Connects to IOS XE router, grabs the LSPDB from IS-IS.
  Can be used to tell you abut a router in the topology.
  Can (in a very basic manner) create head end tunnel config for SR TE paths and tell you the SID list from a list of routers you want in the path.
- Mostly used for massing about in a lab and creating ad-hoc SR-TE paths.
+ Mostly used for messing about in a lab and creating ad-hoc SR-TE paths.
  
  Looks a bit like:
  
