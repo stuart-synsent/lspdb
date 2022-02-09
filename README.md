@@ -9,7 +9,8 @@
  
  Looks a bit like:
  
- `----------------------------------
+ ```
+ ----------------------------------
  
  $ python lspdb.py
 Enter seed router: 10.10.20.100
@@ -122,4 +123,5 @@ Current SID list is:
 What do you want to do?
  1. Describe Node
  2. Path calc
- 3. Quit`
+ 3. Quit
+ ```
